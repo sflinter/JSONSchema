@@ -28,7 +28,9 @@
 		"minItems",
 		"maxItems",
 		"minProperties",
-		"maxProperties"
+		"maxProperties",
+		"anyOf",
+		"oneof"
 	],
 	"name" : "JSONSchemaDefinition",
 	"type" : "normal"

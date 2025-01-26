@@ -1,1 +1,1 @@
-SystemOrganization addCategory: #'JSONSchema-Core-Tests'!
+self packageOrganizer ensurePackage: #'JSONSchema-Core-Tests' withTags: #()!
